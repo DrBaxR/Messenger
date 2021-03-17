@@ -1,0 +1,9 @@
+[submodule "Messenger-Server"]
+	path = Messenger-Server
+	url = https://github.com/DrBaxR/Messenger-Server.git
+[submodule "Messenger-Client-Web"]
+	path = Messenger-Client-Web
+	url = https://github.com/DrBaxR/Messenger-Client-Web.git
+[submodule "Messenger-Client-Android"]
+	path = Messenger-Client-Android
+	url = https://github.com/DrBaxR/Messenger-Client-Android.git
