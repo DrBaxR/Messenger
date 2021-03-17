@@ -1,4 +1,4 @@
-# Messenger ~(name\ subject\ to\ change)~
+# Messenger _(name subject to change)_
 ---
 ### _Care sunt specificatiile proiectului?_
 O platforma in care utilizatorii pot sa isi creeze conturi, sa adauge alti utilizatori la contacte si sa poarte convorbiri atat private, cat si in grup.
